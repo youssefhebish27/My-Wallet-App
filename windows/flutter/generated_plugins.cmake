@@ -1,4 +1,4 @@
-git commit -m "Updated gitignore for security"#
+#
 # Generated file, do not edit.
 #
 
