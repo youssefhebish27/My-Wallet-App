@@ -25,9 +25,7 @@ Designed with a focus on **User Experience (UX)** and **Performance**, ensuring 
 ## 📸 App Screenshots
 | Login & Secure Auth | Dashboard & Expenses | Analytics & Charts |
 |:---:|:---:|:---:|
-| <img src="assets/screenshots/login.png" width="250"> | <img src="assets/screenshots/home.png" width="250"> | <img src="assets/screenshots/analytics.png" width="250"> |
-
-*(Make sure to replace the image paths above with your actual filenames)*
+| <img src="assets/screenshots/login.jpg" width="250"> | <img src="assets/screenshots/home.jpg" width="250"> | <img src="assets/screenshots/analytics.jpg" width="250"> |
 
 ---
 
