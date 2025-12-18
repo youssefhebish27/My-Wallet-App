@@ -10,7 +10,8 @@
 ---
 
 ## 👨‍💻 Developed By
-### **Youssef Mohamed Hebish**
+### 1. **Youssef Mohamed Hebish**
+### 2. **Abdelrahman Mohamed Abdelrazek**
 *Passionate Mobile App Developer & Tech Enthusiast.*
 
 ---
